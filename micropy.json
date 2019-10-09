@@ -1,0 +1,16 @@
+{
+    "name": "esp32-sensetemp",
+    "stubs": {
+        "esp32-micropython-1.11.0": "1.2.0"
+    },
+    "config": {
+        "vscode": true,
+        "pylint": true
+    },
+    "packages": {
+        "mqtt": "*"
+    },
+    "dev-packages": {
+        "micropy-cli": "*"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "device": {
+        "name": "SenseTemp",
+        "sensors": [
+            "Channel 1",
+            "Channel 2",
+            "Channel 3",
+            "Channel 4"
+        ],
+        "scale": 100,
+        "to_int": true
+    },
+    "wifi-station":{
+        "name": "SSID_NAME",
+        "pass": "SSID_PASS"
+    },
+    "mqtt": {
+        "ip":"MQTT_IP",
+        "sleep": 1
+    },
+    "http": {
+        "sleep": 0.5
+    }
+}
