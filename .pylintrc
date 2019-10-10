@@ -1,6 +1,6 @@
 [MASTER]
 # Loaded Stubs:  esp32-micropython-1.11.0 
-init-hook='import sys;sys.path.insert(1, ".micropy/micropython/frozen");sys.path.insert(1, ".micropy/esp32-micropython-1.11.0/frozen");sys.path.insert(1, ".micropy/esp32-micropython-1.11.0/stubs");sys.path.insert(1, ".micropy/esp32-sensetemp");sys.path.insert(1,"./lib")'
+init-hook='import sys;sys.path.insert(1, ".micropy\micropython\frozen");sys.path.insert(1, ".micropy\esp32-micropython-1.11.0\frozen");sys.path.insert(1, ".micropy\esp32-micropython-1.11.0\stubs");sys.path.insert(1, ".micropy\esp32-sensetemp");sys.path.insert(1,"./lib")'
 
 [MESSAGES CONTROL]
 # Only show warnings with the listed confidence levels. Leave empty to show

@@ -2,22 +2,22 @@
     "python.linting.enabled": true,
     "python.jediEnabled": false,
     "python.autoComplete.extraPaths": [
-        ".micropy/micropython/frozen",
-        ".micropy/esp32-micropython-1.11.0/frozen",
-        ".micropy/esp32-micropython-1.11.0/stubs",
-        ".micropy/esp32-sensetemp"
+        ".micropy\\micropython\\frozen",
+        ".micropy\\esp32-micropython-1.11.0\\frozen",
+        ".micropy\\esp32-micropython-1.11.0\\stubs",
+        ".micropy\\esp32-sensetemp"
     ],
     "python.autoComplete.typeshedPaths": [
-        ".micropy/micropython/frozen",
-        ".micropy/esp32-micropython-1.11.0/frozen",
-        ".micropy/esp32-micropython-1.11.0/stubs",
-        ".micropy/esp32-sensetemp"
+        ".micropy\\micropython\\frozen",
+        ".micropy\\esp32-micropython-1.11.0\\frozen",
+        ".micropy\\esp32-micropython-1.11.0\\stubs",
+        ".micropy\\esp32-sensetemp"
     ],
     "python.analysis.typeshedPaths": [
-        ".micropy/micropython/frozen",
-        ".micropy/esp32-micropython-1.11.0/frozen",
-        ".micropy/esp32-micropython-1.11.0/stubs",
-        ".micropy/esp32-sensetemp"
+        ".micropy\\micropython\\frozen",
+        ".micropy\\esp32-micropython-1.11.0\\frozen",
+        ".micropy\\esp32-micropython-1.11.0\\stubs",
+        ".micropy\\esp32-sensetemp"
     ],
     "python.linting.pylintEnabled": true
 }

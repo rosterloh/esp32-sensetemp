@@ -8,7 +8,8 @@
         "pylint": true
     },
     "packages": {
-        "mqtt": "*"
+        "mqtt": "*",
+        "picoweb": "*"
     },
     "dev-packages": {
         "micropy-cli": "*"

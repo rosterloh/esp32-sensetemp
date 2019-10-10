@@ -8,9 +8,10 @@
             "Channel 4"
         ],
         "scale": 100,
-        "to_int": true
+        "to_int": true,
+        "loop_async": true
     },
-    "wifi-station":{
+    "wifi-station": {
         "name": "SSID_NAME",
         "pass": "SSID_PASS"
     },
